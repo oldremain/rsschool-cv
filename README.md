@@ -1,1 +1,1 @@
-# [rsschool-cv](https://github.com/oldremain/rsschool-cv/blob/gh-pages/cv.md)
+# [rsschool-cv](https://oldremain.github.io/rsschool-cv/cv)
