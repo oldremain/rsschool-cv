@@ -1,6 +1,6 @@
-[rsschool-cv](this would be a link to my cv)
+[rsschool-cv](https://github.com/oldremain/rsschool-cv/blob/gh-pages/cv.md)
 -----  
-<img src="./avatar.jpg" alt="my profile"/>
+<img src="./avatar.jpg" alt="my profile" width="300" height="450"/>
 
 # Oleg Zaicev  
 
@@ -9,7 +9,7 @@
 
 ### Contact information
 **email**: 30oleg.zv94@gmail.com  
-**discord**: 
+**discord**: Oleg Zaicev (@oldremain)  
 **telegram**: [@phdPixel](https://t.me/phdPixel)  
 **github**: [oldremain](https://github.com/oldremain?tab=repositories)  
 **linkedin**: [https://www.linkedin.com/in/oldremain/](https://www.linkedin.com/in/oldremain/)  
