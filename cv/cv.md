@@ -1,5 +1,3 @@
-[rsschool-cv](https://github.com/oldremain/rsschool-cv/blob/gh-pages/cv.md)
------  
 <img src="./avatar.jpg" alt="my profile" width="300" height="450"/>
 
 # Oleg Zaicev  
